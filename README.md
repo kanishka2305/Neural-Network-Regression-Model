@@ -6,7 +6,7 @@ To develop a neural network regression model for the given dataset.
 
 ## THEORY
 
-Explain the problem statement
+The given neural network architecture consists of an input layer with one neuron two hidden layers with three neurons each and an output layer with one neuron. This structure suggests that the model is designed for a regression or binary classification task, where a single input feature is processed through multiple layers of transformations to produce a single output value. The fully connected layers indicate that each neuron in one layer is connected to all neurons in the next, allowing the network to learn complex relationships within the data. The problem statement for this model could be predicting a continuous output or classifying an input into one of two categories. The hidden layers enable the model to capture non-linear patterns in the data, making it suitable for problems where simple linear models are insufficient.
 
 ## Neural Network Model
 
